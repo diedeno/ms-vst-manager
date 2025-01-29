@@ -2,6 +2,8 @@
 
 # MuseScore VST Manager
 
+![screenshot](ms-vst-manager.png)
+
 ## Introduction
 The MuseScore VST Manager is a utility for managing VST plugin configurations in MuseScore. It provides a simple interface to enable, disable, delete, search, and back up plugin information.
 
