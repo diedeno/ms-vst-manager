@@ -7,6 +7,9 @@
 ## Introduction
 The MuseScore VST Manager is a utility for managing VST plugin configurations in MuseScore. It provides a simple interface to enable, disable, delete, search, and back up plugin information.
 
+**This application does not modify or delete the actual VST's;  it only updates the known_audio_plugins.json file used by MuseScore.**
+
+
 ## Features
 - **Search Plugins**: Dynamically filter the plugin list by typing keywords.
 - **Enable/Disable Plugins**: Toggle the enabled state of a plugin with a double-click.
